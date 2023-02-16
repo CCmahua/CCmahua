@@ -8,15 +8,15 @@
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   </p>
 
-- 🔭 I’m currently working on [foodie](https://github.com/BlackDagger007/foodie)
+- 🔭 我目前正在研究 [foodie](https://github.com/BlackDagger007/foodie)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 我目前正在学习 **Flutter,Vue,C++**
 
-- 👯 I’m looking to collaborate on **Flutter projects**
+- 👯 我希望能在以下方面进行合作 **Unity projects**
 
-- 💬 Ask me about **flutter, firebase, nodejs**
+- 💬 问我 **Unity, UnrealEngine, C#**
 
-- 📫 How to reach me **mailwahab247@gmail.com**
+- 📫 如何联系我 **1099783447@qq.com**
 
 - 🐍 `print(random.choice(dev_quote))`
 </div>

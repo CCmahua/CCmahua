@@ -1,8 +1,8 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Abdul-Wahab.</h1>
+<h1 align="center">你好 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 欢迎来到我的乐园.</h1>
 <h3 align="center">Just a tech.</h3>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackdagger007&label=Profile%20views&color=0e75b6&style=flat" alt="blackdagger007" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=CCmahua&label=Profile%20views&color=0e75b6&style=flat" alt="CCmahua" /> </p>
  
 <div style="display:flex">
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
